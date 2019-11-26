@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0a091b</color>
+    <color name="colorPrimaryDark">#070716</color>
+    <color name="colorAccent">#262b39</color>
+
+    <color name="ripple_effect_color">#f816a463</color>
+
+    <color name="btnSignIn">#1fbad6</color>
+
+    <color name="btnRegister">#83838c</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="red">#FF0000</color>
+
+    //Navigation
+    <color name="overlayBackground">#7f333639</color>
+
+
+    //Profile
+
+    <color name="colorPrimary1">#49BEFF</color>
+    <color name="colorPrimaryDark1">#65DCE5</color>
+    <color name="colorAccent1">#0D5D98</color>
+
+    <color name="address1">#2F7092</color>
+    <color name="followers1">#0D5D98</color>
+    <color name="headings1">#3797CF</color>
+    <color name="solidCircle1">#AAFFFFFF</color>
+    <color name="circleBorder1">#50FFFFFF</color>
+    <color name="gradEnd1">#67EFC8</color>
+    <color name="gradStart1">#63C9FF</color>
+    <color name="followersBg1">#65DCE5</color>
+    <color name="followingBg1">#49BEFF</color>
+    <color name="grey1">#E5E5E5</color>
+
+    <color name="white1">#FFFFFF</color>
+
+</resources>

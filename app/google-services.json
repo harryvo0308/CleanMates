@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "423136869676",
+    "firebase_url": "https://androidcleanermate.firebaseio.com",
+    "project_id": "androidcleanermate",
+    "storage_bucket": "androidcleanermate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423136869676:android:61d71406c0b1fc25",
+        "android_client_info": {
+          "package_name": "com.example.harryvo.cleanermates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423136869676-b4d6sa0dm3v0ac3vrehs1sigfrrfj1if.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harryvo.cleanermates",
+            "certificate_hash": "2093a623c56859054dfc4e94ab30b0396bc31743"
+          }
+        },
+        {
+          "client_id": "423136869676-hf8h43sneg62fijl1qud3i6ulr1ln679.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIVxqrV8-RRRD4lqMt8Ax7N5nWtvb-kpU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423136869676-hf8h43sneg62fijl1qud3i6ulr1ln679.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
